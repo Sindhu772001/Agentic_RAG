@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langchain-core
+pydantic
+python-dotenv
+fastapi
+uvicorn
+faiss-cpu
+tiktoken
+openai
+requests
+unstructured
+pdfminer.six
